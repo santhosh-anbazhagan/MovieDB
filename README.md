@@ -22,5 +22,5 @@ This project leverages modern Android development practices and libraries to cre
 
 Excited to collaborate with fellow Android enthusiasts and professionals! Let's innovate and create impactful mobile experiences together!
 
-🌐 [Website](https://yourwebsite.com)
-📧 [Email](mailto:youremail@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/santhosh-anbazhagan)
+📧 [Email](mailto:santhoshanbazhagan1910@example.com)
